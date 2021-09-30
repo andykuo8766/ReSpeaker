@@ -5,3 +5,4 @@
 | ----------- | --- | --- |
 | `andykuo8766` | `郭紘安` | andykuo8766@gapp.nthu.edu.tw |
 
+[Tutorial](https://hackmd.io/@AndyKuo/ReSpeaker)
